@@ -3,8 +3,7 @@
 */to install type "pip install (install module name)"/*
 
 Necessary libraries
- 
- import pandas as pd
+ import pandas as pd
  import numpy as np
  import seaborn as sb
  from sklearn.model_selection import train_test_split 
@@ -66,7 +65,16 @@ Contribution:
 
 Reference
 
-Dr. Sengupta, Sourav, 2022. Data Science and Artificial Intelligence. [Lab Materials] Singapore. 
+Abdulhamit Subasi, 2020. Practical Machine Learning for Data Analysis Using Python
+
+Edgar, T. W., & Manz, D. O. (2017). Exploratory Study. Research Methods for Cyber Security, 
+95–130. https://doi.org/10.1016/b978-0-12-805349-2.00004-2‌
+
+Dr. Sengupta, Sourav, 2022. Data Science and Artificial Intelligence. [Lab Materials] 
+Nanyang Technological University, Singapore. 
+
+Neil Liberman, 2017. Decision Trees and Random Forests. 
+https://towardsdatascience.com/decision-trees-and-random-forests-df0c3123f991
 
 sklearn.linear_model.LogisticRegression. (2014). Scikit-Learn. https://scikit-learn.org/stable/modules/
 generated/sklearn.linear_model.LogisticRegression.html
