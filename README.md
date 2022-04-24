@@ -3,7 +3,8 @@
 */to install type "pip install (install module name)"/*
 
 Necessary libraries
- import pandas as pd
+ 
+ import pandas as pd
  import numpy as np
  import seaborn as sb
  from sklearn.model_selection import train_test_split 
